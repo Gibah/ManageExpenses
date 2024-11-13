@@ -1,0 +1,14 @@
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.AssemblyInfoInputs.cache
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.AssemblyInfo.cs
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.csproj.CoreCompileInputs.cache
+C:\projects\ManageExpenses\bin\Debug\net8.0\ManageExpenses.exe
+C:\projects\ManageExpenses\bin\Debug\net8.0\ManageExpenses.deps.json
+C:\projects\ManageExpenses\bin\Debug\net8.0\ManageExpenses.runtimeconfig.json
+C:\projects\ManageExpenses\bin\Debug\net8.0\ManageExpenses.dll
+C:\projects\ManageExpenses\bin\Debug\net8.0\ManageExpenses.pdb
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.dll
+C:\projects\ManageExpenses\obj\Debug\net8.0\refint\ManageExpenses.dll
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.pdb
+C:\projects\ManageExpenses\obj\Debug\net8.0\ManageExpenses.genruntimeconfig.cache
+C:\projects\ManageExpenses\obj\Debug\net8.0\ref\ManageExpenses.dll
